@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=근성과%끈기로%배우는%개발자)
+![header](https://capsule-render.vercel.app/api?type=soft&text=근성과 끈기로 배우는 개발자)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=km-young)](https://github.com/km-young/github-readme-stats)
 <!--
 **km-young/km-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
